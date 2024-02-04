@@ -1,2 +1,2 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/843589402973831179/1203791760552108042/7.png"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif"></p>
 Онлайн версия настольной игры «7 Чудес»
